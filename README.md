@@ -57,10 +57,8 @@ Spil - Dinosaur Labyrint/
 │   ├── tree.png             # Tree overlay (composited onto path for wall tiles)
 │   └── qmark.png            # Question mark shown above confused T-rex
 │
-├── code example for maze generation (old game)/
-│   └── maze.py              # Original DFS reference (not used by the game)
-│
-└── unused figures/          # Discarded asset variants
+├── original game manifest - by Lars Reiter/
+│   └── readme.txt           # Original game ideas / manifest as written down by the author
 ```
 
 ---
